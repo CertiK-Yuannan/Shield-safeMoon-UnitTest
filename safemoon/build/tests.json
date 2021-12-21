@@ -1,0 +1,16 @@
+{
+  "contracts": {
+    "Arker": "89622fcc40eef437df9e365334bf816d9ecb5ef6",
+    "OpenZeppelin/openzeppelin-contracts@4.0.0/SafeMath": "1ce946f6a4eaa185320328620ccf999b9e86db7c"
+  },
+  "tests": {
+    "tests/test_basicFunctionality.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".F...",
+      "sha1": "c0a40a799bea855735c8da40b0137f1e3e49798a",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
